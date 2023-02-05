@@ -53,3 +53,4 @@ wincertstore==0.2
 wordcloud==1.8.2.2
 zipp==3.11.0
 streamlit
+en_core_web_sm
