@@ -1,4 +1,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*OiBE0zkesg-2ZEeS.png" width="880" height="400" alt="Alt Text">
+[Refernce link for Concept](https://www.youtube.com/watch?v=mVF0Lt5Sb84)
+
 
 ## **Real Job or Fake Job Prediction**
 
